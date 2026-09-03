@@ -1,4 +1,5 @@
 Landing Form Project
+🔗 Live Demo: https://cerulean-cassata-97dfa4.netlify.app/
 
 A simple and responsive Coming Soon landing page with a contact form.
 
@@ -11,7 +12,8 @@ Social media icons
 Background image with gradient overlay
 Modern CSS styling
 📸 Screenshot
-<img width="1910" height="921" alt="image" src="https://github.com/user-attachments/assets/1a25981f-17c5-43c0-adb9-deace217f9e9" />
+<img width="1888" height="740" alt="image" src="https://github.com/user-attachments/assets/230a24e2-0716-4414-ad43-eaea7df69d02" />
+
 
 🛠️ Built With
 HTML5
