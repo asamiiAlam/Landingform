@@ -14,12 +14,24 @@ body{
 
 }
 .wrapper{
+    
     min-height:100vh;
     background:linear-gradient(to bottom,rgba(255,64,50,0.8),
-    rgba(71,17,116,0.9)),url('../images/bg.avif')
+    rgba(71,17,116,0.9)),url('../images/background.jpg')
     no-repeat center center/cover; 
 
 
+}
+.main-content{
+    display:flex;
+    max-width:1100px;
+    margin:0 auto;
+    justify-content:center;
+    align-items:center;
+    height:100%;
+    padding:0 40px;
+    gap:50px;
+    
 }
 
 .header{
@@ -56,17 +68,7 @@ body{
     color:purple;
 }
 
-.main-content{
-    display:flex;
-    max-width:1100px;
-    margin:0 auto;
-    justify-content:center;
-    align-items:center;
-    height:100%;
-    padding:0 40px;
-    gap:50px;
-    
-}
+
 
 
 .main-content form{
